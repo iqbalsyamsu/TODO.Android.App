@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android.devs\Android.Studio\TODO Android App\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7541db917baa506c0dd564574dda219c7099e134.jar" />
+    </item>
+    <item
+        jar="D:\android.devs\Android.Studio\TODO Android App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\android.devs\Android.Studio\TODO Android App\app\build\intermediates\pre-dexed\debug\classes-87f461657fe212f9ef7d736466a7734ccb321ce6.jar" />
+    </item>
+    <item
+        jar="D:\android.devs\Android.Studio\TODO Android App\app\libs\jxl.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="D:\android.devs\Android.Studio\TODO Android App\app\build\intermediates\pre-dexed\debug\jxl-ef416e317bed57744c78553b775502d52cc56b51.jar" />
+    </item>
+
+</items>
